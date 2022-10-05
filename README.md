@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on Shopify Projects
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React 
 - 💬 Ask me about Shopify Store Setups
-- 📫 How to reach me: ...
+- 📫 How to reach me: email 
 
 -->
